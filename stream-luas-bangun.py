@@ -8,4 +8,4 @@ hitung = st.button ("Hitung Luas")
 
 if hitung :
     luas = 0.5 * alas * tinggi
-    st.success (f"Luas Segitiga Adalah = {luas}")
+    st.success (f"Luas segitiga adalah = {luas}")
