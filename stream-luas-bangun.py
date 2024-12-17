@@ -1,6 +1,5 @@
 import streamlit as st
 
-# halaman hitung luas segitiga
 st.title('Hitung Luas Segitiga')
 
 alas = st.number_input ("Masukan Nilai Alas", 0)
